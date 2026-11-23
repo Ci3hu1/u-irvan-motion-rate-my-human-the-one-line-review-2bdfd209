@@ -21,7 +21,8 @@
 - Repo: https://github.com/Ci3hu1/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209 — commit 5bb6f062013e6b213901024f7256987d9516513d (pushed, commit page HTTP 200). About set: description + homepage = bounty page + topics makefun, ai-agents, bounties, growth.
 - Kit check: pending — bundle + check run in the follow-up turn, after this build session's usage row is written (usage rows land only when the build turn ends). Dry-run bundle 24 Nov ~02:05 WIB: 3 sessions found (parent 6f46c46d, this build session f002b916, plus 0c1607cc cut to the turn that wrote the skill file read); system prompt uploaded, instruction files collected; 0 usage rows attached (expected — land at turn end); missing items for the follow-up bundle: --prompt-file with the scheduled run's prompt (origin scheduled) and --mcp none. No missing-parent warning: parent session 6f46c46d found.
 - NOT submitted — awaiting Joni's Setuju on the exact entry.
+- **SUBMITTED 24 Nov ~02:22 WIB on Joni's "Setuju": submission 01a209dc-190f-7015-96fc-f243f9b3a636, stage "scored", round 1. All intake checks pass. Bundle ~/workspace/tools/makefun/bundles/rate-my-human-bundle.tar.gz (598,823 B, sha256 e9fe8c16ae2bce877b77529c9e667eb241305b663ca891a8a3a78648f135dc01); kit check 16 passed, 0 failed, 5 skipped (02:13 WIB). Claim code ONLY in ~/.config/makefun/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209-submission.json (0600).**
 
 ## Live score
 
-- (filled after submit; blind rounds — no live rank/score until round results publish)
+- Blind rounds: NO live score at submit. Round 1 of 3 judged after cutoff 01:48 WIB 26 Nov (2026-11-25T18:48:58Z); check GET /api/competitions/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/rounds then. Final at deadline 30 Nov 02:00 WIB.
